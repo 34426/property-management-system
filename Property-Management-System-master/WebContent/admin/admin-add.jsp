@@ -18,13 +18,7 @@
         http://twitter.com/halalit_usman
         ===
     -->
-    <meta charset="utf-8">
-    <title>添加:物业管理系统</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Charisma, a fully featured, responsive, HTML5, Bootstrap admin template.">
-    <meta name="author" content="Muhammad Usman">
 
-    <!-- The styles -->
     <link id="bs-css" href="../css/bootstrap-cerulean.min.css" rel="stylesheet">
 
     <link href="../css/charisma-app.css" rel="stylesheet">
