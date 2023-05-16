@@ -1,8 +1,7 @@
 # 物业管理系统
 
-有问题，或者不会调试运行的同学, 可以添加微信：xzxj0206
+### 有问题，或者需要协助调试运行项目的, 可以添加 QQ：2529519551 ，或者wx ：xzxj0206
 
-![img_9.png](imgs/img_9.png)
 
 # 项目介绍
 基于javaweb+mysql的小区物业管理系统(java+JSP+bootstrap+JavaScript+servlet+Mysql)
