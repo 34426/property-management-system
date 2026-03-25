@@ -1,11 +1,41 @@
 # 物业管理系统
 
 
-### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,备用Q: 3808981644
-### 有问题，或者需要协助调试运行项目的也可联系
-### 获取更多项目，关注公众号：编程项目集
+### 完整项目获取
 
-![img_1.png](img_1.png)
+通过网盘分享的文件：物业管理系统
+
+链接: https://pan.baidu.com/s/1QDz5mDBe_QrpKUAjbhwzUw?pwd=manh 提取码: manh
+--来自百度网盘超级会员v3的分享
+
+### 项目合集(项目不断更新中，包含java、vue、python、Android、微信小程序等项目)
+
+链接: https://pan.baidu.com/s/1nY-zhvAK0CXYcn3g7LzQnQ?pwd=id3c 提取码: id3c
+--来自百度网盘超级会员v3的分享
+
+### 工具包
+
+链接: https://pan.baidu.com/s/1YmdoJvkjoUjA75wvHLDZ6A?pwd=xm96 提取码: xm96
+--来自百度网盘超级会员v3的分享
+
+需要远程项目部署或项目修改和毕业设计也可联系（添加申请时请备注好来意）
+
+### 远程调试部署联系方式
+
+链接: https://pan.baidu.com/s/1W0dDcoZmayG0c7USJDYBYg?pwd=nqd7 提取码: nqd7
+--来自百度网盘超级会员v3的分享
+
+#### 这些项目一起发你了 可以分享给你需要的同学 调试可找我 也接二次修改和项目定制、毕业设计等
+
+## 接毕业设计和论文
+
+微信联系方式：xzxj0206  QQ：3808981644   (支持修改、 部署调试、 支持代做毕设)
+
+接网站建设、小程序、H5、APP、各种系统等，单片机、嵌入式也可以做
+
+选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt  都可以做
+
+
 
 # 项目介绍
 基于javaweb+mysql的小区物业管理系统(java+JSP+bootstrap+JavaScript+servlet+Mysql)
@@ -47,7 +77,3 @@ java+JSP+bootstrap+JavaScript+servlet+Mysql
 
 ![img_8.png](imgs/img_8.png)
 
-### 9.9￥ 获取完整源码+sql，需要加Q：3577148218 ,备用Q: 3808981644
-### 有问题，或者需要协助调试运行项目的也可联系
-
-![img.png](img.png)
